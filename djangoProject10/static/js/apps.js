@@ -1,0 +1,1 @@
+setTimeout(()=>{alert('Welcome to my lovely site!')},3000);
